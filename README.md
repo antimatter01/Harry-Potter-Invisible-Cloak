@@ -14,13 +14,22 @@ You just need to update the HSV value of the colour you choose accordingly in th
 Well, “What is HSV?”
 
 H : Hue
+
 Hue is the colour portion of the model, expressed as a number from 0 to 360 degrees:
+
 Red falls between 0 and 60 degrees.
+
 Yellow falls between 61 and 120 degrees.
+
 Green falls between 121–180 degrees.
+
 Cyan falls between 181–240 degrees.
+
 Blue falls between 241–300 degrees.
+
 Magenta falls between 301–360 degrees.
+
+
 S : Saturation
 Saturation describes the amount of grey in a particular colour, from 0 to 100 percent. Reducing this component toward zero introduces more grey and produces a faded effect. Sometimes, saturation appears as a range from just 0–1, where 0 is grey, and 1 is a primary colour.
 
